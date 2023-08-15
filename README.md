@@ -2,7 +2,7 @@
 
 Matlab code for the Rat Reunion study, including both isolation-separation and repeat-reunion (relationship formation)
 
-The code is organized in a collection of Matlab livescripts (rr_livescripts) that call supporting functions (rr_supportingfunctions). A few intermediate variables are saved in rr_matfiles
+The code is organized in a collection of Matlab livescripts (ratreunion_livescripts) that call supporting functions (ratreunion_supportingfunctions). 
 
 All main livescripts are titled ratreunion_partXX_XXX.mlx
 
